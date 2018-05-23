@@ -3,6 +3,7 @@
   "type": "library",
   "description": "Just to make ccampbell/chromephp a bit handier for me.",
   "license": "MIT",
+  "minimum-stability": "dev",
   "require": {
     "php": ">=5.0.0",
     "ccampbell/chromephp": "4.*"
